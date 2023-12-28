@@ -13,13 +13,15 @@ Flipkart is India's leading e-commerce platform that offers a wide range of prod
 - The Flipkart Dataset used in this project is can be found here : [Click to view/Download the dataset](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/blob/main/product_Dataset.xlsx)
 - In total there's: 18 Columns 30000 Rows
 
-                                                             Data profiling 
+                                                     Data profiling 
 ![image](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/assets/57633068/e1f900f8-7242-4e97-9344-35797972e49d)
 
 
 ## Data Quality Issues 
-###### Data quality 
+######  A data quality assessment is a process of evaluating data and measuring it against selected quality criteria such as completeness and validity.
+
 This analysis was conducted using the Data Quality Assessment (DQA) Documentation provided by  Danalytics ➡️ [Link to Danalytics Channel](https://youtu.be/T0yspXF3onU). The DQA served as a valuable resource for recording and identifying issues within the Flipkart dataset. 
+
 Here is a summary of the key issues:
 - Missing Values
 - Duplicate Records
