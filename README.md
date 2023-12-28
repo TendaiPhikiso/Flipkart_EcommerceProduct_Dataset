@@ -10,7 +10,8 @@ Flipkart is India's leading e-commerce platform that offers a wide range of prod
 📊 This project involved the exploration of the Flipkart dataset with the primary objective of identifying and addressing data quality issues. A meeting was conducted to inform the client about the quality of the provided data and related mitigation and assumptions we would use to clean the data.
 
 ## Data Source Summary
-The Flipkart Dataset used in this project is can be found here :> [Click to view/Download the dataset](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/blob/main/product_Dataset.xlsx)
+- The Flipkart Dataset used in this project is can be found here :> [Click to view/Download the dataset](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/blob/main/product_Dataset.xlsx)
+- In total there's: 18 Columns 30000 Rows
 - Data profiling 
 ![image](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/assets/57633068/e1f900f8-7242-4e97-9344-35797972e49d)
 
