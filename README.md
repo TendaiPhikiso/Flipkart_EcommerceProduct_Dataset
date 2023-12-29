@@ -24,7 +24,7 @@ Flipkart is India's leading e-commerce platform that offers a wide range of prod
 
 This analysis was conducted using the Data Quality Assessment (DQA) Documentation provided by  Danalytics ➡️ [Link to Danalytics Channel](https://youtu.be/T0yspXF3onU). The DQA served as a valuable resource for recording and identifying issues within the Flipkart dataset. 
 
-Here is a summary of the key issues:
+Here is a summary of the key issues identified:
 - Missing Values
 - Duplicate Records
 - Inaccessible data
