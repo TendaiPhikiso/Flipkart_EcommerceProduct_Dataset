@@ -3,7 +3,7 @@
 
 
 #### 📊 Situation: 
-I was recently assigned a project by Danalytics with the primarily objective of identifying and addressing data quality issues using the Flipkart product dataset.
+I was recently assigned a project by Danalytics with the primary objective of identifying and addressing data quality issues using the Flipkart product dataset.
 
 #### Who’s Flipkart?
 
